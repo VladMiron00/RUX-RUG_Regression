@@ -1,4 +1,4 @@
-# An approach to interpretability in regression machine learning algorithm: a closer look at rule-based learning with Linear Programming
+# Discovering Decision Rules for Interpretable Regression Machine Learning Algorithms with Linear Programming
 
 **BAQM Seminar - Team 7**
 
