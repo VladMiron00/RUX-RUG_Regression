@@ -1,6 +1,6 @@
 # Discovering Decision Rules for Interpretable Regression Machine Learning Algorithms with Linear Programming
 
-**BAQM Seminar - Team 7**
+**Business Analytics and Quantitative Marketing Seminar - Team 7**
 
 Please note that this code is written based on the code from sibirbil and the code for his paper "Discovering Classification Rules for Interpretable Learning with Linear Programming" (https://github.com/sibirbil/RuleDiscovery).
 
